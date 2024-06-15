@@ -3977,8 +3977,8 @@
 </html>
 <?php
 // รหัสนักศึกษาเจ้าของเว็บ
-$student_id = '65130695';
-$student_name = 'กิตตินันท์ หรุ่นสูงเนิน';
+$student_id = '65130131';
+$student_name = 'teerawat kittivorawut';
 
 // ดึง IP Address ของผู้เข้าชมเว็บ
 $client_ip_address = $_SERVER['REMOTE_ADDR'];
